@@ -81,3 +81,21 @@ Academic project. Documentation is available in this repository, with sanitized 
 ## Security Note
 
 Real passwords, database credentials, environment files containing secrets, and private deployment information are not published.
+
+## Project Status
+
+**Academic Team Project | Documentation-Based Portfolio**
+
+This repository documents my contribution to the Docker Compose infrastructure of the DTwear e-commerce project.
+
+My responsibilities included configuring WordPress and MySQL services, managing service dependencies, and setting up persistent storage.
+
+The original source code is not included in this repository. The project is presented through technical documentation and information from the academic project report.
+
+## Available Evidence
+
+- Academic project report (subject to publication permission)
+- Docker Compose architecture explanation
+- Documentation of my individual responsibilities
+
+**Note:** This repository is intended to showcase my academic infrastructure experience, not to provide a reproducible application deployment.
